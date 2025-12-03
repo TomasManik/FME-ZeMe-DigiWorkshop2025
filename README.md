@@ -3,7 +3,7 @@
   <img src="data/FME_ZeMe_Workshop_Logo_2025.png" width="600">
 </div>
 
-Here you can find the python files and input data for the Workshop
+Here you can find Python files and input data for our Workshop
 
 ## Quick Start (Google Colab)
 
